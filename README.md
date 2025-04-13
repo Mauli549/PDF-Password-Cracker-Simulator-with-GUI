@@ -62,3 +62,5 @@ Notes:
 - This is a simulator for educational purposes and ethical hacking learning only.
 - It may take time for longer passwords due to the exponential number of combinations.
 - The tool supports alphabetic and numeric character combinations
+
+ https://github.com/Mauli549/PDF-Password-Cracker-Simulator-with-GUI/blob/c4631f2c50b305df001b2d0e8478e26acadf042e/Screenshot%202025-04-13%20172750.png
