@@ -63,5 +63,6 @@ Notes:
 - It may take time for longer passwords due to the exponential number of combinations.
 - The tool supports alphabetic and numeric character combinations
 
-![image alt](https://github.com/Mauli549/PDF-Password-Cracker-Simulator-with-GUI/blob/c4631f2c50b305df001b2d0e8478e26acadf042e/Screenshot%202025-04-13%20172750.png)
+![image alt](https://github.com/Mauli549/PDF-Password-Cracker-Simulator-with-GUI/blob/c4631f2c50b305df001b2d0e8478e26acadf042e/Screenshot%202025-04-13%20172750.png)\
+![image alt](https://github.com/Mauli549/PDF-Password-Cracker-Simulator-with-GUI/blob/4bff6445a64b2d88240d90937cd89af11c165771/Screenshot%202025-04-13%20172806.png)
  
