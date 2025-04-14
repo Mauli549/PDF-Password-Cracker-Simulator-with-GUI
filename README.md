@@ -14,6 +14,8 @@ Description:
 demonstrates how brute-force attacks work by trying all possible password combinations based on
 the given character set and password length. It provides a visually interactive interface with features
 like theme toggling, progress tracking, sound notifications, and a log panel.
+
+
 Features:
 1. GUI using Tkinter.
 2. File selection using file dialog.
